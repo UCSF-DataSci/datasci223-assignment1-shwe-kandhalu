@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6fFVVHyL)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=18982740)
 # GitHub and Python Foundations Assignment
 
 ## Overview
@@ -47,11 +49,10 @@ This assignment will help you practice:
 - Clone the repository to your local machine to begin working on the assignment
 
 ### Part 1: Update this README.md
-Replace the "Part 1" section with:
-- A brief introduction about yourself (first name only)
-- What you're hoping to get out of this course
-- Topics you would like to see included
-- A musical recommendation and a link to something about it (song, album, artist)
+Hi! My name is Shwetha and I am a first year Health Data Science student. I am passionate about healthcare and finding solutions that will help improve patient outcomes. My research interests focus on women's health, particularly understanding the diverse and often overlooked symptoms of PMS that women experience each month. In this class, I hope to better my skills in Python and apply my skills in real world examples. Some topics I would like to see included are Neural Networks, Jobs and Technical Interviews, Natural Language Processing (NLP), and Ethics in Data Science.
+
+A musical recommendation of mine is the song PUSH 2 START by Tyla.
+Youtube Audio Link: https://www.youtube.com/watch?v=TcknaZhnO88
 
 ### Part 2: Complete the email_hasher.py Script
 The email_hasher.py script should:
